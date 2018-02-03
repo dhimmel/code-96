@@ -10,8 +10,8 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This is a testing repository for switching to a versioned directory structure for the webpage.
+See https://github.com/greenelab/manubot-rootstock/issues/96 and https://github.com/greenelab/manubot-rootstock/pull/101.
 
 ## Manubot
 
