@@ -15,4 +15,4 @@ This directory contains the following files, which are mostly ignored on the `ma
 ## Source
 
 The manuscripts in this directory were built from
-[`7dbb1a6e59e7a37ad22b599a24fb9ea1f9410e62`](https://github.com/dhimmel/code-96/commit/7dbb1a6e59e7a37ad22b599a24fb9ea1f9410e62).
+[`2c59da5736e304cdbda186f8c2826480a482783b`](https://github.com/dhimmel/code-96/commit/2c59da5736e304cdbda186f8c2826480a482783b).
