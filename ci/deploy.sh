@@ -36,7 +36,7 @@ python build/webpage.py \
 
 # Generate OpenTimestamps
 ots stamp \
-  webpage/v/$TRAVIS_COMMIT/index.html \
+  webpage/v/$TRAVIS_COMMIT/manuscript.html \
   webpage/v/$TRAVIS_COMMIT/manuscript.pdf
 
 # Commit message
