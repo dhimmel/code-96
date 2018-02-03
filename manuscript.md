@@ -2,7 +2,7 @@
 author-meta:
 - John Doe
 - Jane Roe
-date-meta: '2018-02-01'
+date-meta: '2018-02-03'
 keywords:
 - markdown
 - publishing
@@ -18,8 +18,9 @@ title: 'Manubot Rootstock: Manuscript Title'
 
 <small><em>
 This manuscript was automatically generated
-from [greenelab/manubot-rootstock@a535f7b](https://github.com/greenelab/manubot-rootstock/tree/a535f7b872df775b1557f90b01402bbd56d17517)
-on February  1, 2018.
+from [dhimmel/code-96@60f7524](https://github.com/dhimmel/code-96/tree/60f75246e6b05e3104b7094b4d703d8c4abba4e7)
+on February 3, 2018.
+The permalink for this manuscript version is <https://dhimmel.github.io/code-96/v/60f75246e6b05e3104b7094b4d703d8c4abba4e7/>.
 </em></small>
 
 ## Authors
@@ -52,24 +53,6 @@ on February  1, 2018.
 ## Abstract {.page_break_before}
 
 
-
-
-## Manubot Rootstock Information
-
-**Note: Manubot instances should delete this file.**
-
-The Manubot is a system for automating scholarly publishing.
-Content is written in [Pandoc Markdown](http://pandoc.org/MANUAL.html#pandocs-markdown) source files.
-See [`USAGE.md`](https://github.com/greenelab/manubot-rootstock/blob/master/USAGE.md) for more information on how to use the Manubot.
-
-The Manubot project began with the [Deep Review](https://github.com/greenelab/deep-review), where it was used to compose a highly-collaborative review article [@tJKvnIaZ].
-Other manuscripts that were created with Manubot include:
-
-+ The Sci-Hub Coverage Study ([GitHub](https://github.com/greenelab/scihub-manuscript), [HTML manuscript](https://greenelab.github.io/scihub-manuscript/))
-+ Michael Zietz's Report for the Vagelos Scholars Program ([GitHub](https://github.com/zietzm/Vagelos2017), [HTML manuscript](https://zietzm.github.io/Vagelos2017/)) [@15nwuvjrA]
-
-If you notice a problem with Manubot, it's best to submit an upstream fix to the appropriate repository:
-[`greenelab/manubot-rootstock`](https://github.com/greenelab/manubot-rootstock) for the git repository stub or [`greenelab/manubot`](https://github.com/greenelab/manubot) for the Python package.
 
 
 ## References {.page_break_before}

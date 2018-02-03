@@ -1,5 +1,5 @@
 {
-  "date": "February  1, 2018",
+  "date": "February 3, 2018",
   "authors": [
     {
       "github": "johndoe",
@@ -43,14 +43,15 @@
     }
   ],
   "ci_source": {
-    "repo_slug": "greenelab/manubot-rootstock",
-    "commit": "a535f7b872df775b1557f90b01402bbd56d17517"
+    "repo_slug": "dhimmel/code-96",
+    "repo_owner": "dhimmel",
+    "repo_name": "code-96",
+    "commit": "60f75246e6b05e3104b7094b4d703d8c4abba4e7"
   },
   "manuscript_stats": {
     "reference_counts": {
-      "doi": 2,
-      "total": 2
+      "total": 0
     },
-    "word_count": 323
+    "word_count": 223
   }
 }
