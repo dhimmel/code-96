@@ -1,6 +1,6 @@
 # Output directory containing the formatted manuscript
 
-The [`gh-pages`](https://github.com/greenelab/manubot-rootstock/tree/gh-pages) branch hosts the contents of this directory at https://greenelab.github.io/manubot-rootstock/.
+The [`gh-pages`](https://github.com/dhimmel/code-96/tree/gh-pages) branch hosts the contents of this directory at https://dhimmel.github.io/code-96/.
 
 ## Files
 
@@ -15,4 +15,4 @@ This directory contains the following files, which are mostly ignored on the `ma
 ## Source
 
 The manuscripts in this directory were built from
-[`a535f7b872df775b1557f90b01402bbd56d17517`](https://github.com/greenelab/manubot-rootstock/commit/a535f7b872df775b1557f90b01402bbd56d17517).
+[`60f75246e6b05e3104b7094b4d703d8c4abba4e7`](https://github.com/dhimmel/code-96/commit/60f75246e6b05e3104b7094b4d703d8c4abba4e7).
