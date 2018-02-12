@@ -18,9 +18,9 @@ title: 'Manubot Rootstock: Manuscript Title'
 
 <small><em>
 This manuscript was automatically generated
-from [dhimmel/code-96@c4cb565](https://github.com/dhimmel/code-96/tree/c4cb565431e045d00ddd19142e87e1f80b11fc19)
+from [dhimmel/code-96@3a33297](https://github.com/dhimmel/code-96/tree/3a33297ed7389aaced6fd8394b42bd78b0c558af)
 on February 12, 2018.
-The permalink for this manuscript version is <https://dhimmel.github.io/code-96/v/c4cb565431e045d00ddd19142e87e1f80b11fc19/>.
+The permalink for this manuscript version is <https://dhimmel.github.io/code-96/v/3a33297ed7389aaced6fd8394b42bd78b0c558af/>.
 </em></small>
 
 ## Authors
