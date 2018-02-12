@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/dhimmel/code-96/tree/gh-pages) branch hosts the contents of this directory at https://dhimmel.github.io/code-96/.
-The permalink for this webpage version is https://dhimmel.github.io/code-96/v/102cc3c924a6388e654f5ea81a9b6140bacf3637/.
+The permalink for this webpage version is https://dhimmel.github.io/code-96/v/4821f3b00d42461dd98c185efa21264ca27f0b8b/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://dhimmel.github.io/code-96/v/freeze/.
 
 ## Files
@@ -20,4 +20,4 @@ The `*.ots` files in version directories are OpenTimestamps which can be used to
 ## Source
 
 The manuscripts in this directory were built from
-[`102cc3c924a6388e654f5ea81a9b6140bacf3637`](https://github.com/dhimmel/code-96/commit/102cc3c924a6388e654f5ea81a9b6140bacf3637).
+[`4821f3b00d42461dd98c185efa21264ca27f0b8b`](https://github.com/dhimmel/code-96/commit/4821f3b00d42461dd98c185efa21264ca27f0b8b).
