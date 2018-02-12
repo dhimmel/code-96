@@ -2,7 +2,7 @@
 author-meta:
 - John Doe
 - Jane Roe
-date-meta: '2018-02-03'
+date-meta: '2018-02-12'
 keywords:
 - markdown
 - publishing
@@ -18,9 +18,9 @@ title: 'Manubot Rootstock: Manuscript Title'
 
 <small><em>
 This manuscript was automatically generated
-from [dhimmel/code-96@2c59da5](https://github.com/dhimmel/code-96/tree/2c59da5736e304cdbda186f8c2826480a482783b)
-on February 3, 2018.
-The permalink for this manuscript version is <https://dhimmel.github.io/code-96/v/2c59da5736e304cdbda186f8c2826480a482783b/>.
+from [dhimmel/code-96@2d0a42b](https://github.com/dhimmel/code-96/tree/2d0a42bcf59d746bdf6791d5377f9043ae87c22b)
+on February 12, 2018.
+The permalink for this manuscript version is <https://dhimmel.github.io/code-96/v/2d0a42bcf59d746bdf6791d5377f9043ae87c22b/>.
 </em></small>
 
 ## Authors

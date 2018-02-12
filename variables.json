@@ -1,5 +1,5 @@
 {
-  "date": "February 3, 2018",
+  "date": "February 12, 2018",
   "authors": [
     {
       "github": "johndoe",
@@ -46,7 +46,7 @@
     "repo_slug": "dhimmel/code-96",
     "repo_owner": "dhimmel",
     "repo_name": "code-96",
-    "commit": "2c59da5736e304cdbda186f8c2826480a482783b"
+    "commit": "2d0a42bcf59d746bdf6791d5377f9043ae87c22b"
   },
   "manuscript_stats": {
     "reference_counts": {
